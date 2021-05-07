@@ -1,7 +1,7 @@
 type = "webpack"
-zone_id = ""
-account_id = ""
-route = ""
+zone_id = "60ffd9e8749e1dd883d903b9be015fad"
+account_id = "d8aa1b864fe00f21e236a9601b3f74f0"
+route = "*cowindrives.club/api*"
 workers_dev = true
 webpack_config = "webpack.config.js"
 name = "cowin-workers"
